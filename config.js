@@ -10,6 +10,6 @@ module.exports = {
 
     // Your email to receive notification (receiver)  
     from: '"Contact Me" <noreply@example.com>', // Sender email address
-    to: 'email@example.com', // Your email address
+    to: 'contactd1mod12@gmail.com', // Your email address
     subject: 'Contact Us', // Subject
 };
